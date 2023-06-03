@@ -205,3 +205,7 @@
 	update_health_hud()
 	update_stamina_hud()
 	med_hud_set_status()
+
+/mob/living/carbon/human/necromorph/Logout()
+	evacuate()
+	return ..()
