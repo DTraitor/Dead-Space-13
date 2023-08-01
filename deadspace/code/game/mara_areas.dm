@@ -17,13 +17,13 @@ maybe on the future.
 	icon = 'icons/area/areas_station.dmi'
 	icon_state = "explored"
 
-/area/mara17/exterior
-	name = "Mara 17 Exterior"
+/area/station/mara_exterior
+	name = "Mara 17 - Exterior"
 	icon_state = "explored"
 	ambience_index = AMBIENCE_MINING
+	area_flags = VALID_TERRITORY| BLOBS_ALLOWED | CULT_PERMITTED | NO_ALERTS | PERSISTENT_ENGRAVINGS
 	outdoors = TRUE
 	base_lighting_alpha = 60
-
 
 // INTERIOR
 
@@ -31,73 +31,20 @@ maybe on the future.
 	name = "Mara 17 Interior"
 	icon_state = "station"
 
-/area/mara17/interior/caves // Basically to cover all of the rocks in the lower & upper & middle levels.
-	name = "Mara 17 Interior Caves"
+// Basically to cover all of the rocks in the lower & upper & middle levels.
+/area/station/mara_caves
+	name = "Mara 17 - Caves"
 	icon_state = "noruins"
+	ambience_index = AMBIENCE_MINING
+	area_flags = VALID_TERRITORY| BLOBS_ALLOWED | CULT_PERMITTED | NO_ALERTS | PERSISTENT_ENGRAVINGS
 
 // UPPER LEVEL - Buildings on the High Level
-
-///// MEDICAL BAY /////
-
-/area/mara17/interior/upper/medical
-	name = "Iris Outpost - Medical Bay"
-	icon_state = "med_central"
-
-/area/mara17/interior/upper/medical/morgue
-	name = "Iris Outpost - Medical Bay - Morgue"
-	icon_state = "morgue"
-
-/area/mara17/interior/upper/medical/cmo
-	name = "Iris Outpost - Medical Bay - Medical Director Office"
-	icon_state = "CMO"
-
-///// ENGINIEERING /////
-
-/area/mara17/interior/upper/enginieering
-	name = "Iris Outpost - Enginieering"
-	icon_state = "engie"
-
-/area/mara17/interior/upper/enginieering/interior
-	name = "Iris Outpost - Enginieering Bay"
-	icon_state = "engi_lobby"
-
-/area/mara17/interior/upper/enginieering/atmos
-	name = "Iris Outpost - Atmospherics"
-	icon_state = "atmos"
-
-/area/mara17/interior/upper/enginieering/ce
-	name = "Iris Outpost - Chief Enginieer Office"
-	icon_state = "ce_office"
 
 ///// WAREHOUSE /////
 
 /area/mara17/interior/upper/warehouse
 	name = "Iris Outpost - Storage Warehouse"
 	icon_state = "storage"
-
-///// CARGO /////
-
-/area/mara17/interior/upper/cargo
-	name = "Iris Outpost - Cargo Bay"
-	icon_state = "cargo_bay"
-
-/area/mara17/interior/upper/cargo/cargo_tech
-	name = "Iris Outpost - Cargo Tech Office"
-	icon_state = "cargo_office"
-
-/area/mara17/interior/upper/cargo/quartermaster
-	name = "Iris Outpost - Cargo Bay - Quartermaster Office"
-	icon_state = "quart_office"
-
-///// TELECOMMUNICATIONS /////
-
-/area/mara17/interior/upper/tcomms
-	name = "Iris Outpost - Telecommunications Control Room"
-	icon_state = "tcomsatcomp"
-
-/area/mara17/interior/upper/tcomms/comms
-	name = "Iris Outpost - Telecommunications"
-	icon_state = "tcomsatcham"
 
 ///// MINING /////
 
@@ -134,12 +81,6 @@ maybe on the future.
 /area/mara17/interior/upper/evacuation
 	name = "Iris Outpost - Trash Disposal Area"
 	icon_state = "disposal"
-
-///// CIVILIAN AREAS /////
-
-/area/mara17/interior/upper/civilian
-	name = "Iris Outpost - Employee Upper Barracks"
-	icon_state = "dorms"
 
 ///// OBSERVATION DOME /////
 
@@ -380,100 +321,92 @@ maybe on the future.
 
 ///// ABANDONED AREAS /////
 
-/area/mara17/interior/medium/abandoned
+/area/station/mara_abandoned
+	name = "Mara 17 - Abandoned Area"
+	icon_state = "unknown"
+
+/area/station/mara_abandoned/outside
 	name = "Mara 17 - Abandoned Structure"
 	icon_state = "unknown"
+	ambience_index = AMBIENCE_MINING
+	area_flags = VALID_TERRITORY| BLOBS_ALLOWED | CULT_PERMITTED | NO_ALERTS | PERSISTENT_ENGRAVINGS
 
-/area/mara17/interior/medium/abandoned/watchtower1
+/area/station/mara_abandoned/outside/watchtower1
 	name = "Mara 17 - Abandoned Watchtower 1#"
-	icon_state = "unknown"
 
-/area/mara17/interior/medium/abandoned/watchtower2
+/area/station/mara_abandoned/outside/watchtower2
 	name = "Mara 17 - Abandoned Watchtower 2#"
-	icon_state = "unknown"
 
 ///// LOWER MARA AREAS /////
 
-/area/mara17/interior/lower
-	name = "Mara 17 - Lower Level"
-	icon_state = "unknown"
-
-/area/mara17/interior/lower/sec_checkpoint
+/area/station/security/mara_lower_checkpoint
 	name = "Mara 17 - Lower Security Checkpoint"
 	icon_state = "checkpoint"
 
-/area/mara17/interior/lower/scaf_storage1
+/area/station/mara_scaf_lower
 	name = "Mara 17 - SCAF Equipment Storage"
 	icon_state = "storage"
 
-/area/mara17/interior/lower/scaf_storage2
+/area/station/mara_scaf_lower/aux_supplies
 	name = "Mara 17 - SCAF Equipment Storage - Auxiliary Supplies Room"
 	icon_state = "storage_wing"
 
-/area/mara17/interior/lower/scaf_storage_hallway
-	name = "Mara 17 - SCAF Equipment Storage Hallway"
-	icon_state = "hall"
-
-/area/mara17/interior/lower/aux_storage
+/area/station/mara_scaf_lower/aux_storage
 	name = "Mara 17 - Auxiliary Storage"
 	icon_state = "emergency_storage"
 
-/area/mara17/interior/lower/tunnel
+/area/station/hallway/mara_lower
+	name = "Mara 17 - SCAF Equipment Storage Hallway"
+	icon_state = "hall"
+
+/area/station/maintenance/mara_lower
 	name = "Mara 17 - Maintenance Tunnels"
 	icon_state = "centralmaint"
 
-/area/mara17/interior/lower/room1
+/area/station/mara_abandoned/room1
 	name = "Mara 17 - Abandoned Room 1"
 	icon_state = "vacant_room"
 
-/area/mara17/interior/lower/room2
+/area/station/mara_abandoned/room2
 	name = "Mara 17 - Abandoned Room 2"
 	icon_state = "vacant_room"
 
-/area/mara17/interior/lower/room3
+/area/station/mara_abandoned/room3
 	name = "Mara 17 - Abandoned Room 3"
 	icon_state = "vacant_room"
 
-/area/mara17/interior/lower/room4
+/area/station/mara_abandoned/room4
 	name = "Mara 17 - Abandoned Room 4"
 	icon_state = "vacant_room"
 
-/area/mara17/interior/lower/room5
+/area/station/mara_abandoned/room5
 	name = "Mara 17 - Abandoned Room 5"
 	icon_state = "vacant_room"
 
-/area/mara17/interior/lower/room6
+/area/station/mara_abandoned/room6
 	name = "Mara 17 - Abandoned Room 6"
 	icon_state = "vacant_room"
 
-/area/mara17/interior/lower/room7
+/area/station/mara_abandoned/room7
 	name = "Mara 17 - Abandoned Room 7"
 	icon_state = "vacant_room"
 
-/area/mara17/interior/lower/room8
+/area/station/mara_abandoned/room8
 	name = "Mara 17 - Abandoned Room 8"
 	icon_state = "vacant_room"
 
-/area/mara17/interior/lower/room9
+/area/station/mara_abandoned/room9
 	name = "Mara 17 - Abandoned Room 9"
 	icon_state = "vacant_room"
 
-/area/mara17/interior/lower/room10
+/area/station/mara_abandoned/room10
 	name = "Mara 17 - Abandoned Room 10"
 	icon_state = "vacant_room"
 
-/area/mara17/interior/lower/room11
-	name = "Mara 17 - Abandoned Room 11"
-	icon_state = "vacant_room"
-
-/area/mara17/interior/lower/old_chapel
+/area/station/mara_abandoned/old_chapel
 	name = "Mara 17 - Abandoned Chapel"
 	icon_state = "chapel"
 
-/area/mara17/interior/lower/old_bunker
+/area/station/mara_abandoned/old_bunker
 	name = "Mara 17 - Unknown Bunker"
 	icon_state = "vacant_room"
-
-
-
-

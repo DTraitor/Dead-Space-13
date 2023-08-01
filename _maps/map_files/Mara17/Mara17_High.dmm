@@ -1,22 +1,22 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "aa" = (
 /turf/closed/indestructible/rock/snow,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "ab" = (
 /turf/open/floor/deadspace/grater,
 /area/mara17/interior/upper/abandoned/romero_checkpoint)
 "ac" = (
 /turf/closed/wall,
-/area/mara17/interior/medium/abandoned/watchtower1)
+/area/station/mara_abandoned/outside/watchtower1)
 "ad" = (
 /turf/open/floor/deadspace/grater,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "ae" = (
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "af" = (
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "ag" = (
 /turf/open/floor/plating,
 /area/mara17/interior/upper/evacuation)
@@ -25,41 +25,41 @@
 /area/mara17/interior/upper/mining/barracks)
 "ai" = (
 /turf/closed/wall/rust,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "aj" = (
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/deadspace/grater,
 /area/mara17/interior/upper/observation)
 "ak" = (
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "al" = (
 /turf/open/openspace,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "am" = (
 /obj/structure/curtain/bounty,
 /obj/machinery/door/firedoor,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "an" = (
 /obj/structure/fence,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "ao" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/medkit/advanced,
 /obj/item/storage/medkit/advanced,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "ap" = (
 /obj/structure/curtain/cloth,
 /obj/structure/fence{
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "aq" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/observation/bathroom)
@@ -68,26 +68,26 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "as" = (
 /obj/structure/fence/door,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "at" = (
 /obj/structure/curtain/cloth,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "au" = (
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "av" = (
 /obj/machinery/smartfridge/chemistry,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "aw" = (
 /obj/structure/table,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "ax" = (
 /obj/structure/rack/shelf,
 /obj/item/clothing/suit/hooded/wintercoat/custom,
@@ -101,44 +101,44 @@
 /obj/item/clothing/gloves/fingerless,
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "ay" = (
 /obj/item/radio/intercom/directional/west,
 /obj/structure/table,
 /obj/item/stack/medical/bruise_pack,
 /obj/item/stack/medical/mesh,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "az" = (
 /obj/machinery/chem_dispenser,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "aA" = (
 /obj/machinery/chem_master,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "aB" = (
 /obj/machinery/chem_heater,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "aC" = (
 /obj/machinery/cryopod{
 	dir = 4
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "aD" = (
 /obj/machinery/cryopod{
 	dir = 8
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "aE" = (
 /turf/open/floor/deadspace/grater,
 /area/mara17/interior/upper/abandoned/romero_interior)
 "aF" = (
 /turf/closed/wall/rust,
-/area/mara17/interior/medium/abandoned)
+/area/station/mara_abandoned/outside)
 "aG" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/radio/intercom/directional/south,
@@ -146,13 +146,13 @@
 /area/mara17/interior/upper/mining)
 "aH" = (
 /turf/open/floor/deadspace/cable_end,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aI" = (
 /turf/open/floor/deadspace/cable,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aJ" = (
 /turf/open/floor/deadspace/cable_start,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aK" = (
 /turf/open/floor/deadspace/random/golf_gray,
 /area/mara17/interior/upper/mining/locker_room)
@@ -164,7 +164,7 @@
 /area/mara17/interior/upper/mining)
 "aM" = (
 /turf/closed/mineral/snowmountain,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "aN" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor{
@@ -175,23 +175,23 @@
 "aO" = (
 /obj/structure/fence/corner,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aP" = (
 /obj/structure/fence,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aQ" = (
 /obj/structure/fence/corner{
 	dir = 8
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aR" = (
 /obj/structure/fence{
 	dir = 4
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aS" = (
 /turf/open/floor/deadspace/random/golf_brown,
 /area/mara17/interior/upper/abandoned/romero_pen)
@@ -200,25 +200,25 @@
 	dir = 8
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aU" = (
 /obj/structure/fence/cut/large{
 	dir = 1
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aV" = (
 /obj/structure/fence/cut/medium,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aW" = (
 /obj/structure/flora/rock/pile/icy,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aX" = (
 /obj/structure/flora/rock/icy,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aY" = (
 /obj/structure/railing{
 	dir = 1
@@ -227,13 +227,13 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "aZ" = (
 /obj/structure/railing{
 	dir = 1
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "ba" = (
 /obj/structure/railing{
 	dir = 4
@@ -242,40 +242,40 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bb" = (
 /obj/structure/railing/corner{
 	dir = 1
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bc" = (
 /obj/structure/railing/corner{
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bd" = (
 /obj/structure/railing{
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "be" = (
 /obj/structure/railing/corner,
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bf" = (
 /obj/structure/railing{
 	dir = 4
 	},
 /obj/structure/railing,
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bg" = (
 /obj/structure/railing,
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bh" = (
 /obj/structure/bed{
 	pixel_y = 14
@@ -288,21 +288,21 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bj" = (
 /obj/structure/railing,
 /obj/structure/railing{
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bk" = (
 /obj/structure/railing{
 	dir = 8
 	},
 /obj/structure/railing,
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bl" = (
 /obj/machinery/door/airlock,
 /turf/open/floor/deadspace/mono,
@@ -319,7 +319,7 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bo" = (
 /obj/structure/mirror/directional/west,
 /obj/structure/sink{
@@ -332,12 +332,12 @@
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate/decorations,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "bq" = (
 /turf/open/floor/deadspace/cable_start{
 	dir = 4
 	},
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "br" = (
 /obj/machinery/door/airlock{
 	name = "Outpost Iris - Observation Crew Quarters"
@@ -359,7 +359,7 @@
 "bt" = (
 /obj/structure/lattice,
 /turf/open/openspace,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bu" = (
 /obj/structure/rack/shelf,
 /obj/item/stock_parts/cell/plasmacutter,
@@ -368,13 +368,13 @@
 /area/mara17/interior/upper/observation/storage)
 "bv" = (
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "bw" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/medkit/brute,
 /obj/item/storage/medkit/brute,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bx" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/medkit/emergency,
@@ -382,30 +382,30 @@
 /obj/item/storage/medkit/regular,
 /obj/item/storage/medkit/regular,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "by" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/medkit/fire,
 /obj/item/storage/medkit/fire,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bz" = (
 /obj/structure/table/glass,
 /obj/machinery/reagentgrinder,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bA" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/medkit/o2,
 /obj/item/storage/medkit/o2,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bB" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/medkit/toxin,
 /obj/item/storage/medkit/toxin,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bC" = (
 /obj/structure/cable,
 /obj/machinery/door/airlock,
@@ -424,7 +424,7 @@
 "bF" = (
 /obj/structure/chair/office,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "bG" = (
 /obj/structure/table/wood,
 /obj/item/flashlight/seclite,
@@ -438,7 +438,7 @@
 /obj/item/clothing/mask/balaclava,
 /obj/item/clothing/gloves/fingerless,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "bI" = (
 /obj/structure/toilet{
 	dir = 4
@@ -458,21 +458,21 @@
 	pixel_y = 14
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bL" = (
 /obj/structure/table,
 /obj/item/retractor,
 /obj/item/shears,
 /obj/item/blood_filter,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bM" = (
 /obj/structure/table,
 /obj/item/circular_saw,
 /obj/item/bonesetter,
 /obj/item/surgicaldrill,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bN" = (
 /obj/structure/ladder/unbreakable{
 	id = "watchtower_id"
@@ -482,12 +482,12 @@
 "bO" = (
 /obj/effect/spawner/random/exotic/snow_gear,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bP" = (
 /obj/item/clothing/suit/snowman,
 /obj/item/clothing/head/snowman,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bQ" = (
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/deadspace/grater,
@@ -495,14 +495,14 @@
 "bR" = (
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "bS" = (
 /obj/structure/rack/shelf,
 /obj/machinery/light/warm/directional/west,
 /obj/item/storage/box/shipping,
 /obj/item/storage/box/shipping,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "bT" = (
 /obj/effect/decal/cleanable/blood/old,
 /obj/structure/cable,
@@ -518,23 +518,23 @@
 "bV" = (
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bW" = (
 /obj/structure/table/optable,
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bX" = (
 /obj/structure/table/optable,
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "bY" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "bZ" = (
 /obj/machinery/light/small/directional/south,
 /turf/open/floor/deadspace/grater,
@@ -542,7 +542,7 @@
 "ca" = (
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "cb" = (
 /obj/machinery/light/cold/directional/south,
 /turf/open/floor/deadspace/medical,
@@ -550,7 +550,7 @@
 "cc" = (
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "cd" = (
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -564,7 +564,7 @@
 /obj/structure/closet/crate/decorations,
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "cg" = (
 /obj/structure/rack/shelf,
 /turf/open/floor/deadspace/grater,
@@ -577,7 +577,7 @@
 /obj/effect/turf_decal/delivery,
 /obj/machinery/hydroponics,
 /turf/open/floor/deadspace/grater,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "cj" = (
 /obj/structure/cable,
 /turf/open/floor/iron/ported/lino{
@@ -587,7 +587,7 @@
 "ck" = (
 /obj/structure/table,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "cl" = (
 /obj/structure/bed{
 	pixel_y = 14
@@ -598,8 +598,9 @@
 /obj/effect/landmark/start/station_engineer,
 /obj/structure/bed,
 /obj/item/bedsheet/yellow,
+/obj/machinery/light/small/directional/east,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "cm" = (
 /obj/effect/decal/cleanable/blood/old,
 /obj/machinery/light/warm/directional/north,
@@ -610,7 +611,7 @@
 "cn" = (
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "co" = (
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -622,7 +623,7 @@
 "cq" = (
 /obj/structure/closet/secure_closet/medical2,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "cr" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/mining{
@@ -632,13 +633,13 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "cs" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/cardboard,
 /obj/effect/spawner/random/maintenance/four,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "ct" = (
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/random/golf_gray,
@@ -670,30 +671,30 @@
 	pixel_y = 32
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "cy" = (
 /turf/open/floor/plating/snowed,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "cz" = (
 /obj/structure/sign/directions/evac{
 	dir = 1;
 	pixel_x = -31
 	},
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "cA" = (
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "cB" = (
 /obj/structure/closet/secure_closet/medical1,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "cC" = (
 /obj/structure/table/wood,
 /obj/structure/cable,
 /obj/effect/spawner/random/food_or_drink/booze,
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "cD" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate,
@@ -718,7 +719,7 @@
 	},
 /obj/machinery/light/directional/south,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "cG" = (
 /obj/structure/chair{
 	dir = 8
@@ -756,12 +757,12 @@
 	},
 /obj/machinery/light/directional/east,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "cM" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate/mail/full,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "cN" = (
 /obj/machinery/light/warm/directional/north,
 /obj/structure/rack/shelf,
@@ -806,15 +807,15 @@
 /obj/structure/chair/office,
 /obj/effect/landmark/start/cargo_technician,
 /turf/open/floor/carpet/red,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "cT" = (
 /obj/effect/landmark/start/cargo_technician,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "cU" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "cV" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor,
@@ -824,7 +825,7 @@
 /obj/structure/chair,
 /obj/effect/landmark/start/cargo_technician,
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "cX" = (
 /obj/effect/decal/cleanable/blood/old{
 	icon_state = "floor2-old"
@@ -837,7 +838,7 @@
 "cY" = (
 /obj/structure/curtain/bounty,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "cZ" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/deadspace/medical,
@@ -848,21 +849,21 @@
 	},
 /obj/effect/landmark/start/cargo_technician,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "db" = (
 /obj/structure/sign/directions/supply{
 	dir = 1;
 	pixel_y = 31
 	},
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "dc" = (
 /obj/structure/sign/departments/evac{
 	color = "cyan";
 	pixel_x = -32
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "dd" = (
 /obj/item/crowbar/large/heavy,
 /obj/structure/cable,
@@ -871,7 +872,7 @@
 "de" = (
 /obj/machinery/computer/station_alert,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "df" = (
 /obj/machinery/door/airlock{
 	name = "Bathroom"
@@ -901,7 +902,7 @@
 /obj/item/clothing/gloves/fingerless,
 /obj/item/clothing/under/rank/cargo/cargo_jumpsuit,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "dj" = (
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/hardwood,
@@ -918,27 +919,27 @@
 "dm" = (
 /obj/structure/table/wood,
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "dn" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate,
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "do" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate,
 /obj/effect/spawner/random/maintenance/four,
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "dp" = (
 /obj/machinery/status_display/supply{
 	pixel_y = -32
 	},
 /obj/structure/table,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "dq" = (
 /obj/machinery/status_display/supply{
 	pixel_y = 32
@@ -946,35 +947,35 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "dr" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/cardboard,
 /obj/effect/spawner/random/maintenance/eight,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "ds" = (
 /obj/structure/rack/shelf,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "dt" = (
 /obj/machinery/computer/cargo{
 	dir = 4
 	},
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "du" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/cardboard,
 /obj/effect/spawner/random/maintenance/five,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "dv" = (
 /obj/structure/sign/departments/cargo{
 	pixel_y = 32
 	},
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "dw" = (
 /obj/machinery/status_display/evac/directional/west,
 /obj/structure/rack/shelf,
@@ -995,7 +996,7 @@
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/mask/breath,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "dx" = (
 /obj/machinery/status_display/evac/directional/east,
 /obj/structure/rack/shelf,
@@ -1016,7 +1017,7 @@
 /obj/item/clothing/mask/breath,
 /obj/item/clothing/mask/breath,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "dy" = (
 /obj/machinery/status_display/evac/directional/west,
 /turf/open/floor/deadspace/grater,
@@ -1045,14 +1046,14 @@
 /obj/item/storage/box/syringes,
 /obj/item/clothing/suit/hooded/ds,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "dE" = (
 /obj/machinery/status_display/evac/directional/south,
 /turf/open/floor/deadspace/hardwood,
 /area/mara17/interior/upper/mining/barracks)
 "dF" = (
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "dG" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -1061,14 +1062,14 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "dH" = (
 /obj/structure/table/wood,
 /obj/item/paper_bin,
 /obj/item/pen/fourcolor,
 /obj/machinery/airalarm/directional/north,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "dI" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -1080,7 +1081,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "dJ" = (
 /obj/effect/decal/cleanable/blood/old,
 /obj/structure/cable,
@@ -1088,7 +1089,7 @@
 /area/mara17/interior/upper/observation/comms)
 "dK" = (
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "dL" = (
 /obj/effect/decal/cleanable/blood/old{
 	icon_state = "floor2-old"
@@ -1145,7 +1146,7 @@
 /obj/machinery/power/apc/auto_name/directional/north,
 /obj/structure/cable,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "dW" = (
 /obj/structure/closet/crate/cardboard,
 /obj/item/storage/box/gum,
@@ -1162,7 +1163,7 @@
 "dY" = (
 /obj/structure/cable,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "dZ" = (
 /obj/effect/decal/cleanable/ash,
 /turf/open/floor/iron/ported/lino{
@@ -1220,7 +1221,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "eh" = (
 /obj/structure/table/wood,
 /obj/item/paper_bin,
@@ -1239,7 +1240,7 @@
 "ej" = (
 /obj/structure/closet/crate/grave/filled,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "ek" = (
 /obj/structure/chair,
 /obj/item/restraints/handcuffs/cable/pink,
@@ -1312,10 +1313,6 @@
 	},
 /turf/open/floor/iron/ported/lino,
 /area/mara17/interior/upper/observation/comms)
-"eu" = (
-/obj/machinery/light/small/directional/east,
-/turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/interior)
 "ev" = (
 /obj/structure/table/wood,
 /obj/item/reagent_containers/food/drinks/drinkingglass/shotglass{
@@ -1333,7 +1330,7 @@
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/north,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "ex" = (
 /obj/structure/window/spawner/north,
 /obj/machinery/firealarm/directional/east,
@@ -1355,14 +1352,14 @@
 "eA" = (
 /obj/machinery/firealarm/directional/west,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "eB" = (
 /obj/machinery/computer/cargo{
 	dir = 1
 	},
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "eC" = (
 /obj/structure/table/wood,
 /obj/item/reagent_containers/blood/random,
@@ -1397,7 +1394,7 @@
 "eG" = (
 /obj/machinery/firealarm/directional/west,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "eH" = (
 /obj/structure/sign/poster/contraband/random/directional/west,
 /turf/open/floor/deadspace/hardwood,
@@ -1409,17 +1406,17 @@
 "eJ" = (
 /obj/machinery/photocopier,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "eK" = (
 /obj/structure/dresser,
 /obj/structure/mirror/directional/west,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "eL" = (
 /obj/structure/dresser,
 /obj/structure/mirror/directional/east,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "eM" = (
 /obj/effect/turf_decal/box,
 /obj/structure/closet/secure_closet/personal,
@@ -1430,49 +1427,49 @@
 /obj/machinery/light/warm/directional/east,
 /obj/item/clothing/under/rank/cargo/cargo_jumpsuit,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "eN" = (
 /obj/machinery/vending/coffee,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "eO" = (
 /obj/effect/turf_decal/delivery,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "eP" = (
 /obj/machinery/vending/tool,
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "eQ" = (
 /obj/structure/bodycontainer/morgue,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "eR" = (
 /obj/machinery/vending/engivend,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "eS" = (
 /obj/machinery/stasis,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "eT" = (
 /obj/structure/cable,
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "eU" = (
 /obj/structure/sign/departments/engineering{
 	color = "yellow";
 	pixel_y = 32
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "eV" = (
 /obj/machinery/computer/crew{
 	dir = 8
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "eW" = (
 /obj/machinery/mineral/equipment_vendor,
 /turf/open/floor/deadspace/grater,
@@ -1500,7 +1497,7 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "fc" = (
 /obj/structure/statue/snow/snowman{
 	anchored = 1;
@@ -1511,7 +1508,7 @@
 	pixel_y = 8
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "fd" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 8
@@ -1528,15 +1525,15 @@
 /obj/structure/closet/crate,
 /obj/effect/spawner/random/maintenance/four,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "fg" = (
 /obj/structure/tank_dispenser/oxygen,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "fh" = (
 /obj/machinery/space_heater,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "fi" = (
 /obj/machinery/door/airlock{
 	name = "Disposal Shuttle Hangar"
@@ -1548,7 +1545,7 @@
 /area/mara17/interior/upper/evacuation)
 "fj" = (
 /turf/open/floor/carpet/red,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "fk" = (
 /obj/machinery/power/apc/auto_name/directional/north,
 /obj/structure/cable,
@@ -1566,11 +1563,11 @@
 /obj/machinery/power/apc/auto_name/directional/east,
 /obj/structure/cable,
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "fn" = (
 /obj/machinery/defibrillator_mount/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "fo" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/mining{
@@ -1585,7 +1582,7 @@
 	},
 /obj/machinery/cell_charger,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "fq" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -1601,7 +1598,7 @@
 "fs" = (
 /obj/structure/marker_beacon/burgundy,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "ft" = (
 /obj/structure/sign/poster/random/directional/north,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -1644,19 +1641,19 @@
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/north,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "fB" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /obj/structure/cable,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "fC" = (
 /obj/structure/table/reinforced,
 /obj/machinery/door/firedoor,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "fD" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate,
@@ -1664,10 +1661,10 @@
 /obj/machinery/light/warm/directional/south,
 /obj/machinery/firealarm/directional/south,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "fE" = (
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "fF" = (
 /obj/machinery/power/apc/auto_name/directional/west,
 /obj/structure/cable,
@@ -1676,7 +1673,7 @@
 "fG" = (
 /obj/machinery/space_heater,
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "fH" = (
 /obj/structure/rack/shelf,
 /obj/item/clothing/suit/hooded/wintercoat/cargo,
@@ -1692,28 +1689,28 @@
 /obj/item/clothing/mask/balaclava,
 /obj/item/clothing/mask/balaclava,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "fI" = (
 /obj/structure/rack/shelf,
 /obj/item/pushbroom,
 /obj/item/pushbroom,
 /obj/item/pushbroom,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "fJ" = (
 /obj/machinery/vending/engineering,
 /obj/structure/sign/poster/random/directional/east,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "fK" = (
 /obj/structure/sign/poster/random/directional/south,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "fL" = (
 /obj/structure/rack/shelf,
 /obj/structure/sign/poster/contraband/random/directional/east,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "fM" = (
 /obj/structure/rack/shelf,
 /obj/item/pickaxe/silver,
@@ -1784,13 +1781,13 @@
 /obj/structure/table,
 /obj/effect/spawner/random/maintenance/six,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "fW" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate,
 /obj/effect/spawner/random/maintenance/four,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "fX" = (
 /obj/machinery/light/warm/directional/east,
 /obj/effect/decal/cleanable/dirt,
@@ -1802,7 +1799,7 @@
 /obj/item/storage/box/syringes,
 /obj/item/storage/box/beakers,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "fZ" = (
 /obj/structure/rack/shelf,
 /obj/item/clothing/shoes/winterboots,
@@ -2015,11 +2012,11 @@
 /obj/item/clothing/gloves/cargo_gauntlet,
 /obj/item/clothing/gloves/cargo_gauntlet,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "gr" = (
 /obj/item/radio/intercom/directional/north,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "gs" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -2031,17 +2028,17 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "gt" = (
 /obj/effect/landmark/navigate_destination/engineering,
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "gu" = (
 /obj/structure/table,
 /obj/effect/spawner/random/maintenance/seven,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "gv" = (
 /obj/item/radio/intercom/directional/east,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
@@ -2057,7 +2054,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "gx" = (
 /obj/item/radio/intercom/directional/west,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -2069,7 +2066,7 @@
 "gz" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/visible/layer4,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "gA" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/abandoned/romero_checkpoint)
@@ -2125,19 +2122,19 @@
 /obj/machinery/iv_drip,
 /obj/machinery/iv_drip,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "gG" = (
 /turf/closed/wall/rust,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "gH" = (
 /obj/machinery/vending/medical,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "gI" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate/mail/economy,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "gJ" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/medkit/brute,
@@ -2170,7 +2167,7 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "gO" = (
 /obj/machinery/computer/telecomms/monitor{
 	dir = 8;
@@ -2178,26 +2175,26 @@
 	},
 /obj/machinery/light/directional/east,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "gP" = (
 /obj/machinery/computer/telecomms/server{
 	dir = 8;
 	network = "tcommsat"
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "gQ" = (
 /obj/machinery/blackbox_recorder,
-/turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/turf/open/floor/circuit/telecomms/mainframe,
+/area/station/tcommsat/server)
 "gR" = (
 /obj/machinery/telecomms/receiver/preset_left,
 /turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "gS" = (
 /obj/machinery/telecomms/broadcaster/preset_left,
 /turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "gT" = (
 /obj/machinery/light/small/directional/west,
 /obj/structure/toilet{
@@ -2209,86 +2206,84 @@
 "gU" = (
 /obj/machinery/telecomms/receiver/preset_right,
 /turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "gV" = (
 /obj/machinery/telecomms/broadcaster/preset_right,
 /turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "gW" = (
 /obj/machinery/ntnet_relay,
-/turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/turf/open/floor/circuit/telecomms/mainframe,
+/area/station/tcommsat/server)
 "gX" = (
 /obj/machinery/telecomms/bus/preset_two,
 /turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "gY" = (
 /obj/machinery/telecomms/bus/preset_four,
 /turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "gZ" = (
 /obj/machinery/telecomms/hub/preset,
-/turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/turf/open/floor/circuit/telecomms/mainframe,
+/area/station/tcommsat/server)
 "ha" = (
-/obj/machinery/telecomms/bus/preset_one,
+/obj/machinery/telecomms/processor/preset_one,
 /turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "hb" = (
 /obj/machinery/telecomms/bus/preset_three,
 /turf/open/floor/circuit/green/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "hc" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/observation/storage)
 "hd" = (
 /obj/machinery/telecomms/server/presets/common,
 /turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "he" = (
 /obj/machinery/telecomms/server/presets/engineering,
 /turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "hf" = (
 /obj/machinery/telecomms/server/presets/science,
 /turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "hg" = (
 /obj/machinery/telecomms/server/presets/service,
 /turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
-"hh" = (
-/obj/machinery/telecomms/processor/preset_one,
-/turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "hi" = (
-/obj/machinery/telecomms/processor/preset_four,
-/turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
+	dir = 8
+	},
+/turf/open/floor/deadspace/hardwood,
+/area/station/engineering/atmos)
 "hj" = (
 /obj/machinery/telecomms/server/presets/command,
 /turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "hk" = (
 /obj/machinery/telecomms/server/presets/medical,
 /turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "hl" = (
 /obj/machinery/telecomms/server/presets/security,
 /turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "hm" = (
 /obj/machinery/telecomms/server/presets/supply,
 /turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "hn" = (
-/obj/machinery/telecomms/processor/preset_two,
-/turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
-"ho" = (
 /obj/machinery/telecomms/processor/preset_three,
-/turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/turf/open/floor/circuit/green/telecomms/mainframe,
+/area/station/tcommsat/server)
+"ho" = (
+/obj/machinery/telecomms/processor/preset_four,
+/turf/open/floor/circuit/green/telecomms/mainframe,
+/area/station/tcommsat/server)
 "hp" = (
 /obj/machinery/door/airlock/maintenance,
 /obj/structure/cable,
@@ -2311,21 +2306,21 @@
 	},
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "hs" = (
 /obj/structure/table,
 /obj/item/storage/box/tail_pin{
 	pixel_y = 14
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "ht" = (
 /obj/structure/window/reinforced/spawner/west,
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "hu" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -2334,18 +2329,18 @@
 /obj/structure/cable,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "hv" = (
 /turf/open/openspace,
-/area/mara17/interior/medium/abandoned)
+/area/station/mara_abandoned/outside)
 "hw" = (
 /obj/machinery/announcement_system,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "hx" = (
 /obj/machinery/camera/autoname/directional/east,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "hy" = (
 /obj/structure/table/wood,
 /obj/machinery/camera/autoname/directional/west,
@@ -2361,21 +2356,21 @@
 /obj/structure/table,
 /obj/effect/spawner/random/maintenance/two,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "hB" = (
 /obj/structure/table/wood,
 /obj/machinery/fax_machine,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "hC" = (
 /obj/item/kirbyplants{
 	icon_state = "plant-14"
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "hD" = (
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "hE" = (
 /obj/structure/rack/shelf,
 /obj/item/clothing/suit/hooded/wintercoat/custom,
@@ -2390,7 +2385,7 @@
 /obj/machinery/camera/autoname/directional/east,
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "hF" = (
 /obj/machinery/camera/autoname/directional/north,
 /turf/open/floor/deadspace/grater,
@@ -2408,7 +2403,7 @@
 	dir = 4
 	},
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "hJ" = (
 /obj/machinery/camera/autoname/directional/east,
 /obj/structure/tank_holder/emergency_oxygen,
@@ -2417,7 +2412,7 @@
 "hK" = (
 /obj/effect/landmark/start/medical_doctor,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "hL" = (
 /obj/machinery/camera/autoname/directional/north,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
@@ -2432,7 +2427,7 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "hO" = (
 /obj/machinery/camera/autoname/directional/south,
 /turf/open/floor/deadspace/random/maint_center,
@@ -2490,7 +2485,7 @@
 /turf/open/floor/deadspace/cable{
 	dir = 4
 	},
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "hX" = (
 /obj/structure/chair{
 	dir = 8
@@ -2510,17 +2505,17 @@
 /obj/structure/rack/shelf,
 /obj/item/megaphone/cargo,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "ia" = (
 /obj/structure/rack/shelf,
 /obj/item/mop,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "ib" = (
 /obj/machinery/camera/autoname/directional/south,
 /obj/machinery/photocopier,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "ic" = (
 /obj/structure/table/reinforced,
 /obj/machinery/door/firedoor,
@@ -2532,7 +2527,7 @@
 	pixel_x = -6
 	},
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "id" = (
 /obj/structure/table/reinforced,
 /obj/machinery/door/firedoor,
@@ -2545,13 +2540,13 @@
 	pixel_y = -4
 	},
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "ie" = (
 /obj/machinery/computer/apc_control,
 /obj/item/paper/fluff/smartwire_rant,
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "if" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/toolbox/electrical,
@@ -2568,7 +2563,7 @@
 	amount = 15
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "ih" = (
 /obj/structure/rack/shelf,
 /obj/item/stack/sheet/iron{
@@ -2578,7 +2573,7 @@
 	amount = 30
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "ii" = (
 /obj/structure/rack/shelf,
 /obj/item/stack/sheet/glass{
@@ -2591,7 +2586,7 @@
 	pixel_y = 32
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "ij" = (
 /obj/structure/rack/shelf,
 /obj/item/stack/sheet/rglass{
@@ -2605,18 +2600,18 @@
 	pixel_y = -2
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "ik" = (
 /obj/structure/rack/shelf,
 /obj/item/stack/rods/twentyfive,
 /obj/item/stack/rods/twentyfive,
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "il" = (
 /obj/structure/sign/poster/contraband/random/directional/east,
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "im" = (
 /obj/structure/rack/shelf,
 /obj/item/clothing/shoes/winterboots,
@@ -2627,7 +2622,7 @@
 /obj/item/clothing/mask/balaclava,
 /obj/item/clothing/gloves/fingerless,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "in" = (
 /obj/structure/rack/shelf,
 /obj/structure/sign/poster/random/directional/west,
@@ -2635,19 +2630,19 @@
 /obj/item/clothing/gloves/color/yellow,
 /obj/item/clothing/gloves/color/yellow,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "io" = (
 /obj/structure/sign/poster/random/directional/west,
 /obj/machinery/rnd/production/fabricator/department/engineering,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "ip" = (
 /obj/structure/chair/office{
 	dir = 8
 	},
 /obj/effect/landmark/start/quartermaster,
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "iq" = (
 /obj/item/reagent_containers/blood/universal,
 /obj/item/reagent_containers/blood/universal,
@@ -2661,7 +2656,7 @@
 /obj/item/reagent_containers/blood/universal,
 /obj/structure/closet/crate/freezer/blood,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "ir" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate,
@@ -2684,7 +2679,7 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "iu" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate,
@@ -2761,7 +2756,7 @@
 /turf/open/floor/deadspace/cable_end{
 	dir = 4
 	},
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "iF" = (
 /obj/structure/table,
 /obj/item/clothing/shoes/winterboots,
@@ -2801,13 +2796,13 @@
 	pixel_y = 8
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "iJ" = (
 /obj/item/kirbyplants{
 	icon_state = "plant-21"
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "iK" = (
 /obj/structure/table,
 /obj/item/stack/medical/suture,
@@ -2826,7 +2821,7 @@
 /obj/structure/table,
 /obj/item/storage/cans/sixbeer,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "iN" = (
 /obj/effect/spawner/random/trash/mess,
 /turf/open/floor/deadspace/grater,
@@ -2845,7 +2840,7 @@
 	},
 /obj/effect/decal/cleanable/cobweb,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "iR" = (
 /obj/effect/turf_decal/delivery,
 /obj/effect/spawner/random/maintenance/four,
@@ -2859,18 +2854,18 @@
 "iT" = (
 /obj/machinery/space_heater,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "iU" = (
 /obj/machinery/status_display/evac/directional/south,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "iV" = (
 /obj/structure/table,
 /obj/machinery/camera/autoname/directional/east,
 /obj/item/paper_bin,
 /obj/item/pen/fourcolor,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "iW" = (
 /obj/effect/turf_decal/delivery,
 /obj/effect/spawner/random/vending/colavend,
@@ -2997,14 +2992,14 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "ju" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
 	},
 /obj/machinery/light/directional/east,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "jv" = (
 /obj/structure/table,
 /obj/item/storage/fancy/cigarettes/dromedaryco{
@@ -3018,18 +3013,18 @@
 	pixel_x = -8
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "jw" = (
 /obj/structure/window/reinforced/spawner/west,
 /obj/structure/window/reinforced/spawner,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "jx" = (
 /obj/machinery/door/window/brigdoor/right/directional/south{
 	req_one_access_txt = "19; 61"
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "jy" = (
 /obj/structure/rack/shelf,
 /obj/item/clothing/suit/hooded/wintercoat/engineering,
@@ -3037,11 +3032,11 @@
 /obj/item/clothing/mask/balaclava,
 /obj/item/clothing/gloves/fingerless,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "jz" = (
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "jA" = (
 /obj/effect/turf_decal/stripes/corner,
 /obj/effect/turf_decal/stripes/corner{
@@ -3051,49 +3046,49 @@
 	pixel_y = -32
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "jB" = (
 /obj/structure/table,
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "jC" = (
 /obj/structure/table,
 /obj/effect/turf_decal/stripes/line,
 /obj/item/instrument/harmonica,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "jD" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 8
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "jE" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 9
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jF" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jG" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 1
 	},
 /obj/machinery/firealarm/directional/north,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jH" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jI" = (
 /obj/machinery/camera/autoname/directional/north,
 /obj/effect/turf_decal/stripes/line{
@@ -3104,7 +3099,7 @@
 	},
 /obj/machinery/light/directional/north,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jJ" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
@@ -3113,23 +3108,22 @@
 	dir = 4
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jK" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jL" = (
 /obj/structure/sign/warning/coldtemp{
-	pixel_x = -32;
-	pixel_y = 0
+	pixel_x = -32
 	},
 /obj/effect/turf_decal/stripes/corner{
 	dir = 1
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jM" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/mining{
@@ -3138,14 +3132,14 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "jN" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jO" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
@@ -3157,34 +3151,34 @@
 	dir = 8
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jP" = (
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jQ" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 8
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jR" = (
 /obj/machinery/telecomms/message_server/preset,
 /turf/open/floor/circuit/telecomms/mainframe,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jS" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 10
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jT" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 8
 	},
 /obj/effect/turf_decal/stripes/corner,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jU" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 8
@@ -3194,7 +3188,7 @@
 	},
 /obj/effect/turf_decal/stripes/corner,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jV" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 8
@@ -3207,7 +3201,7 @@
 	},
 /obj/effect/turf_decal/stripes/corner,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jW" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 8
@@ -3216,7 +3210,7 @@
 	dir = 1
 	},
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "jX" = (
 /obj/machinery/status_display/evac/directional/east,
 /obj/structure/chair{
@@ -3249,21 +3243,21 @@
 	},
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "kb" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/box/fountainpens,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "kc" = (
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/carpet/red,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "kd" = (
 /obj/machinery/computer/cargo/request,
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "ke" = (
 /obj/structure/rack/shelf,
 /obj/item/reagent_containers/spray/cleaner,
@@ -3291,7 +3285,7 @@
 	pixel_y = 8
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "kh" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/cans/sixsoda,
@@ -3306,7 +3300,7 @@
 /obj/effect/landmark/start/cargo_technician,
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "kj" = (
 /obj/structure/rack/shelf,
 /obj/item/clothing/suit/hooded/wintercoat/cargo,
@@ -3323,7 +3317,7 @@
 /obj/item/clothing/mask/balaclava,
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "kk" = (
 /obj/structure/chair/office{
 	dir = 4
@@ -3351,15 +3345,15 @@
 /obj/structure/cable,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "ko" = (
 /obj/structure/sign/poster/contraband/random/directional/north,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "kp" = (
 /obj/structure/sign/poster/contraband/random/directional/south,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "kq" = (
 /obj/structure/rack/shelf,
 /obj/item/clothing/suit/hooded/wintercoat/cargo,
@@ -3377,12 +3371,12 @@
 /obj/machinery/power/apc/auto_name/directional/south,
 /obj/structure/cable,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "kr" = (
 /obj/machinery/vending/cigarette,
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "ks" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -3401,7 +3395,7 @@
 "ku" = (
 /obj/structure/barricade/wooden/crude/snow,
 /turf/open/misc/snow,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "kv" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/abandoned/romero_res_medbay)
@@ -3413,7 +3407,7 @@
 /obj/item/stack/medical/bone_gel,
 /obj/item/surgical_drapes,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "kx" = (
 /obj/machinery/door/airlock{
 	name = "Disposal Shuttle Hangar"
@@ -3439,7 +3433,7 @@
 /obj/structure/cable,
 /obj/machinery/power/smes/magical,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "kB" = (
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/south,
@@ -3462,7 +3456,7 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "kE" = (
 /obj/structure/sign/directions/medical{
 	pixel_x = 32
@@ -3471,7 +3465,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating/snowed,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "kF" = (
 /obj/effect/landmark/navigate_destination/dockesc,
 /obj/structure/cable,
@@ -3492,13 +3486,13 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "kI" = (
 /obj/structure/curtain/cloth,
 /obj/structure/fence/door,
 /obj/structure/cable,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "kJ" = (
 /obj/machinery/door/airlock/external,
 /obj/structure/cable,
@@ -3515,11 +3509,11 @@
 "kK" = (
 /obj/machinery/status_display/evac/directional/north,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "kL" = (
 /obj/machinery/firealarm/directional/north,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "kM" = (
 /obj/structure/rack/shelf,
 /obj/item/tank/internals/emergency_oxygen/double,
@@ -3551,13 +3545,13 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/snowed,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "kO" = (
 /obj/structure/sign/poster/scaf/forces{
 	pixel_y = 32
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "kP" = (
 /obj/structure/sign/directions/medical{
 	dir = 1;
@@ -3567,20 +3561,20 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "kQ" = (
 /obj/structure/sign/departments/engineering{
 	color = "yellow";
 	pixel_y = 32
 	},
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "kR" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/cable_start{
 	dir = 4
 	},
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "kS" = (
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/east,
@@ -3610,7 +3604,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "kV" = (
 /obj/machinery/power/apc/auto_name/directional/east,
 /obj/structure/cable,
@@ -3667,7 +3661,7 @@
 /area/mara17/interior/upper/mining/locker_room)
 "le" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "lf" = (
 /obj/machinery/door/airlock{
 	name = "Mining Restroom"
@@ -3683,7 +3677,7 @@
 /area/mara17/interior/upper/mining/bathrooms)
 "lg" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "lh" = (
 /obj/structure/table/reinforced,
 /obj/machinery/light/directional/east,
@@ -3704,7 +3698,7 @@
 /obj/machinery/power/apc/auto_name/directional/north,
 /obj/structure/cable,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "lj" = (
 /obj/structure/table/reinforced,
 /obj/machinery/recharger,
@@ -3714,7 +3708,7 @@
 /obj/machinery/camera/autoname/directional/west,
 /obj/structure/cable,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "ll" = (
 /obj/machinery/door/airlock/mining,
 /obj/machinery/door/firedoor,
@@ -3724,7 +3718,7 @@
 /obj/item/radio/intercom/directional/west,
 /obj/structure/cable,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "ln" = (
 /obj/machinery/door/airlock/mining{
 	name = "Outpost Iris - Mining Break Room";
@@ -3740,7 +3734,7 @@
 /area/mara17/interior/upper/mining/relax_room)
 "lo" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "lp" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/abandoned/romero_storage)
@@ -3769,7 +3763,7 @@
 /obj/effect/turf_decal/stripes/line,
 /obj/structure/cable,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "lu" = (
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /obj/machinery/door/airlock/external{
@@ -3779,7 +3773,7 @@
 /obj/structure/cable,
 /obj/machinery/door/firedoor/heavy,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "lv" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
@@ -3787,7 +3781,7 @@
 /obj/machinery/power/apc/highcap/five_k/directional/north,
 /obj/structure/cable,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "lw" = (
 /obj/machinery/door/airlock/external{
 	name = "Telecommunications airlock";
@@ -3799,7 +3793,7 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "lx" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 4
@@ -3807,32 +3801,32 @@
 /obj/effect/turf_decal/stripes/corner,
 /obj/structure/cable,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "ly" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
 	},
 /obj/structure/cable,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "lz" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 1
 	},
 /obj/structure/cable,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "lA" = (
 /obj/structure/cable,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "lB" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
 	},
 /obj/structure/cable,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "lC" = (
 /obj/structure/chair{
 	dir = 1
@@ -3974,7 +3968,7 @@
 	name = "Norton's winter coat"
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "lX" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/toolbox/electrical,
@@ -3983,45 +3977,45 @@
 /obj/item/wirebrush,
 /obj/item/wirebrush,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "lY" = (
 /obj/structure/sign/warning/enginesafety{
 	pixel_x = 32
 	},
 /obj/structure/tank_holder/emergency_oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "lZ" = (
 /obj/structure/sign/directions/engineering{
 	dir = 1;
 	pixel_y = 32
 	},
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "ma" = (
 /obj/structure/sign/directions/engineering{
 	dir = 1;
 	pixel_y = 32
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "mb" = (
 /obj/structure/chair/office,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "mc" = (
 /obj/structure/chair/office{
 	dir = 4
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "md" = (
 /obj/machinery/vending/drugs,
 /obj/structure/sign/warning/nosmoking/circle{
 	pixel_y = -32
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "me" = (
 /obj/structure/lattice,
 /obj/item/toy/plush/rouny{
@@ -4060,7 +4054,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "mi" = (
 /obj/structure/rack/shelf,
 /obj/item/stack/sheet/glass{
@@ -4073,44 +4067,44 @@
 	amount = 30
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mj" = (
 /obj/structure/closet/toolcloset,
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "mk" = (
 /obj/structure/chair{
 	dir = 4
 	},
 /obj/effect/landmark/start/station_engineer,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "ml" = (
 /obj/structure/table/reinforced,
 /obj/item/cardpack/series_one,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mm" = (
 /obj/structure/table/reinforced,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mn" = (
 /obj/structure/chair{
 	dir = 8
 	},
 /obj/effect/landmark/start/station_engineer,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mo" = (
 /obj/machinery/autolathe,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mp" = (
 /obj/structure/table/reinforced,
 /obj/item/cardpack/resin,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mq" = (
 /obj/machinery/light/warm/directional/east,
 /obj/structure/table/reinforced,
@@ -4122,15 +4116,15 @@
 	pixel_y = -8
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mr" = (
 /obj/machinery/airalarm/directional/west,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "ms" = (
 /obj/machinery/firealarm/directional/south,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mt" = (
 /obj/structure/table/reinforced,
 /obj/item/multitool{
@@ -4143,7 +4137,7 @@
 	pixel_x = 4
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mu" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
@@ -4158,7 +4152,7 @@
 	pixel_y = 6
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mw" = (
 /obj/structure/sign/poster/contraband/donk_co{
 	pixel_y = 32
@@ -4175,28 +4169,28 @@
 	pixel_y = 6
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mx" = (
 /obj/structure/sign/poster/contraband/missing_gloves{
 	pixel_y = -32
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "my" = (
 /obj/machinery/vending/wallmed/directional/north,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "mz" = (
 /obj/structure/closet/secure_closet/engineering_welding,
 /obj/effect/turf_decal/box,
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mA" = (
 /obj/structure/closet/secure_closet/engineering_electrical,
 /obj/effect/turf_decal/box,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mB" = (
 /obj/structure/closet/secure_closet/engineering_personal,
 /obj/item/clothing/shoes/winterboots,
@@ -4206,7 +4200,7 @@
 /obj/item/clothing/mask/balaclava,
 /obj/effect/turf_decal/box,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mC" = (
 /obj/machinery/light/warm/directional/south,
 /obj/structure/closet/secure_closet/engineering_personal,
@@ -4217,7 +4211,7 @@
 /obj/item/clothing/mask/balaclava,
 /obj/effect/turf_decal/box,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mD" = (
 /obj/structure/table/wood,
 /obj/effect/spawner/random/entertainment/cigarette_pack,
@@ -4237,12 +4231,12 @@
 /obj/item/storage/box/donkpockets/donkpocketspicy,
 /obj/item/storage/box/donkpockets/donkpocketteriyaki,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "mG" = (
 /obj/structure/table,
 /obj/machinery/microwave,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "mH" = (
 /obj/machinery/light/warm/directional/north,
 /obj/structure/rack/shelf,
@@ -4253,20 +4247,20 @@
 /obj/item/storage/box/lights/mixed,
 /obj/item/storage/box/lights/mixed,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "mI" = (
 /obj/effect/landmark/observer_start,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "mJ" = (
 /obj/structure/sign/poster/scaf/forces{
 	pixel_y = 32
 	},
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "mK" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "mL" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/mining/bathrooms)
@@ -4275,36 +4269,36 @@
 	pixel_y = -32
 	},
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "mN" = (
 /turf/closed/wall/r_wall,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "mO" = (
 /turf/open/misc/snow,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "mP" = (
 /turf/closed/wall,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "mQ" = (
 /obj/structure/cable,
 /turf/open/floor/plating/snowed,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "mR" = (
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "mS" = (
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "mT" = (
 /turf/open/floor/iron/stairs/left{
 	dir = 1
 	},
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "mU" = (
 /turf/open/floor/iron/stairs/right{
 	dir = 1
 	},
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "mV" = (
 /turf/open/floor/deadspace/random/golf_gray,
 /area/mara17/interior/upper/abandoned/romero_checkpoint)
@@ -4313,29 +4307,29 @@
 /area/mara17/interior/upper/abandoned/romero_interior)
 "mX" = (
 /turf/open/floor/plating,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "mY" = (
 /turf/open/floor/iron/stairs/left,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "mZ" = (
 /turf/open/floor/iron/stairs/right,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "na" = (
 /obj/structure/table/wood,
 /obj/machinery/fax_machine,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "nb" = (
 /obj/structure/closet/secure_closet/engineering_chief,
 /obj/effect/decal/cleanable/cobweb,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "nc" = (
 /obj/structure/table/wood,
 /obj/item/stamp/ce,
 /obj/item/stamp/denied,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "nd" = (
 /turf/open/floor/deadspace/hardwood,
 /area/mara17/interior/upper/abandoned/romero_commander)
@@ -4351,7 +4345,7 @@
 "ng" = (
 /obj/structure/barricade/wooden/snowed,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "nh" = (
 /turf/open/floor/deadspace/random/rivets,
 /area/mara17/interior/upper/abandoned/romero_storage)
@@ -4392,14 +4386,14 @@
 	},
 /obj/structure/marker_beacon/burgundy,
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "nq" = (
 /turf/open/floor/deadspace/mono,
 /area/mara17/interior/upper/abandoned/romero_pen)
 "nr" = (
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "ns" = (
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/deadspace/grater,
@@ -4413,7 +4407,7 @@
 	},
 /obj/structure/marker_beacon/burgundy,
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "nu" = (
 /obj/effect/spawner/random/trash/mess,
 /turf/open/floor/deadspace/grater,
@@ -4431,7 +4425,7 @@
 "nx" = (
 /obj/structure/barricade/sandbags,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "ny" = (
 /obj/effect/decal/remains/human,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -4454,7 +4448,7 @@
 "nC" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "nD" = (
 /obj/structure/table/optable,
 /turf/open/floor/deadspace/medical,
@@ -4482,7 +4476,7 @@
 	},
 /obj/structure/marker_beacon/burgundy,
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "nJ" = (
 /obj/structure/sink{
 	dir = 4;
@@ -4509,11 +4503,11 @@
 "nN" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "nO" = (
 /obj/machinery/holopad/secure,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "nP" = (
 /obj/machinery/vending/sovietsoda,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -4532,7 +4526,7 @@
 	},
 /obj/effect/landmark/start/chief_engineer,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "nT" = (
 /obj/structure/closet/emcloset,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -4591,14 +4585,14 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "og" = (
 /turf/closed/wall/r_wall,
 /area/mara17/interior/upper/abandoned/romero_storage)
 "oh" = (
 /obj/structure/table/wood,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "oi" = (
 /turf/open/floor/deadspace/heavy,
 /area/mara17/interior/upper/abandoned/romero_interior)
@@ -4625,7 +4619,7 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "om" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/deadspace/medical,
@@ -4638,7 +4632,7 @@
 /obj/structure/bodycontainer/morgue,
 /obj/machinery/light/cold/directional/west,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "op" = (
 /obj/structure/fence/door,
 /turf/open/floor/deadspace/mono,
@@ -4658,7 +4652,7 @@
 /obj/machinery/light/small/directional/south,
 /obj/structure/tank_holder/emergency_oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "ot" = (
 /obj/structure/rack/gunrack,
 /turf/open/floor/deadspace/random/rivets,
@@ -4706,7 +4700,7 @@
 /area/mara17/interior/upper/abandoned/romero_commander)
 "oD" = (
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "oE" = (
 /turf/open/floor/deadspace/mono,
 /area/mara17/interior/upper/mining/relax_room)
@@ -4715,7 +4709,7 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "oG" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor,
@@ -4726,90 +4720,90 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "oI" = (
 /obj/machinery/camera/autoname/directional/west,
 /obj/structure/bodycontainer/morgue,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "oJ" = (
 /obj/structure/table/reinforced,
 /obj/item/storage/backpack/duffelbag/med/surgery,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "oK" = (
 /obj/structure/table/optable,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "oL" = (
 /obj/machinery/computer/operating{
 	dir = 8
 	},
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "oM" = (
 /obj/effect/turf_decal/bot,
 /obj/structure/table/glass,
 /obj/item/storage/medkit/emergency,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "oN" = (
 /obj/structure/closet/secure_closet/chief_medical,
 /obj/item/healthanalyzer/advanced,
 /obj/item/reagent_containers/medigel/synthflesh,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "oO" = (
 /obj/structure/table/wood,
 /obj/item/stamp/denied,
 /obj/item/stamp/cmo,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "oP" = (
 /obj/structure/table/wood,
 /obj/machinery/computer/med_data/laptop,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "oQ" = (
 /obj/structure/rack/shelf,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "oR" = (
 /obj/machinery/modular_computer/console/preset/id{
 	dir = 4
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "oS" = (
 /obj/structure/chair/office{
 	dir = 8
 	},
 /obj/effect/landmark/start/chief_medical_officer,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "oT" = (
 /obj/structure/table/glass,
 /obj/item/paper_bin,
 /obj/item/pen/fourcolor,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "oU" = (
 /obj/machinery/computer/crew{
 	dir = 4
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "oV" = (
 /obj/structure/table/glass,
 /obj/machinery/fax_machine,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "oW" = (
 /obj/structure/rack/shelf,
 /obj/item/wheelchair,
 /obj/item/wheelchair,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "oX" = (
 /turf/open/floor/deadspace/medical,
 /area/mara17/interior/upper/abandoned/romero_pen)
@@ -4817,7 +4811,7 @@
 /obj/structure/rack/shelf,
 /obj/item/storage/backpack/duffelbag/med/surgery,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "oZ" = (
 /obj/structure/rack/shelf,
 /obj/item/roller,
@@ -4825,43 +4819,43 @@
 /obj/item/roller,
 /obj/item/roller,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "pa" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/backpack/medic,
 /obj/item/storage/backpack/medic,
 /obj/item/storage/backpack/medic,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "pb" = (
 /obj/machinery/computer/apc_control{
 	dir = 1
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "pc" = (
 /obj/structure/rack/shelf,
 /obj/item/storage/medkit/emergency,
 /obj/item/storage/medkit/emergency,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "pd" = (
 /obj/machinery/computer/security/wooden_tv,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "pe" = (
 /obj/structure/closet/crate/freezer/surplus_limbs,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "pf" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "pg" = (
 /obj/machinery/power/apc/auto_name/directional/south,
 /obj/structure/cable,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "ph" = (
 /obj/machinery/light/directional/east,
 /turf/open/floor/deadspace/grater,
@@ -4869,33 +4863,33 @@
 "pi" = (
 /obj/machinery/camera/autoname/directional/south,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "pj" = (
 /obj/machinery/light/cold/directional/south,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "pk" = (
 /obj/machinery/airalarm/directional/north,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "pl" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "pm" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor/heavy,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "pn" = (
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "po" = (
 /obj/machinery/light/small/directional/east,
 /obj/structure/tank_holder/emergency_oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "pp" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/mining/tool_storage)
@@ -4911,22 +4905,22 @@
 /obj/structure/cable,
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "ps" = (
 /obj/machinery/holopad/secure,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "pt" = (
 /obj/structure/closet/secure_closet/medical_mara,
 /obj/item/storage/box/syringes,
 /obj/item/clothing/suit/hooded/ds,
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "pu" = (
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "pv" = (
 /obj/structure/rack/shelf,
 /obj/item/clothing/suit/hooded/wintercoat/medical,
@@ -4939,7 +4933,7 @@
 /obj/item/clothing/gloves/fingerless,
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "pw" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -4959,7 +4953,7 @@
 "pA" = (
 /obj/machinery/power/port_gen/pacman,
 /turf/open/misc/snow,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "pB" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/cable_start{
@@ -4971,26 +4965,26 @@
 /turf/open/floor/deadspace/cable_end{
 	dir = 4
 	},
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "pD" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "pE" = (
 /obj/structure/sign/poster/scaf/sovereign{
 	pixel_y = -32
 	},
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "pF" = (
 /obj/structure/cable,
 /turf/open/floor/plating,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "pG" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/cable_end,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "pH" = (
 /obj/structure/barricade/wooden/crude,
 /obj/structure/cable,
@@ -4999,7 +4993,7 @@
 "pI" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/cable,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "pJ" = (
 /obj/structure/rack/shelf,
 /obj/structure/cable,
@@ -5008,7 +5002,7 @@
 "pK" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/cable_start,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "pL" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/cable{
@@ -5021,7 +5015,7 @@
 /turf/open/floor/deadspace/cable{
 	dir = 4
 	},
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "pN" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/heavy,
@@ -5041,7 +5035,7 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "pR" = (
 /obj/structure/cable,
 /obj/machinery/door/airlock/command{
@@ -5052,16 +5046,16 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "pS" = (
 /obj/machinery/light/warm/directional/north,
 /obj/effect/landmark/latejoin,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "pT" = (
 /obj/effect/landmark/latejoin,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "pU" = (
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/north,
@@ -5116,11 +5110,11 @@
 /area/mara17/interior/upper/access2)
 "qf" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "qg" = (
 /obj/machinery/firealarm/directional/south,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "qh" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/remains/xeno,
@@ -5247,7 +5241,7 @@
 "qB" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "qC" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/abandoned/romero_aux)
@@ -5337,7 +5331,7 @@
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "qS" = (
 /obj/effect/decal/cleanable/glass,
 /obj/effect/decal/cleanable/blood/footprints{
@@ -5355,7 +5349,7 @@
 /area/mara17/interior/upper/abandoned/romero_commander)
 "qU" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "qV" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -5364,7 +5358,7 @@
 /obj/structure/cable,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "qW" = (
 /obj/structure/table/wood,
 /obj/item/reagent_containers/food/drinks/bottle/beer/almost_empty{
@@ -5469,7 +5463,7 @@
 "rn" = (
 /obj/structure/sign/poster/contraband/random/directional/north,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "ro" = (
 /obj/effect/spawner/random/structure/crate,
 /turf/open/floor/deadspace/random/rivets,
@@ -5539,7 +5533,7 @@
 "rB" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "rC" = (
 /obj/effect/spawner/random/trash/garbage,
 /turf/open/floor/deadspace/random/rivets,
@@ -5567,7 +5561,7 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "rG" = (
 /obj/structure/table/wood,
 /obj/item/disk/holodisk/ds13/mara_shitsec,
@@ -5592,7 +5586,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "rQ" = (
 /obj/machinery/firealarm/directional/north,
 /turf/open/floor/deadspace/hardwood,
@@ -5660,7 +5654,7 @@
 	pixel_x = -32
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "sz" = (
 /obj/docking_port/stationary{
 	dwidth = 6;
@@ -5675,13 +5669,13 @@
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor/heavy,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "sD" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "sF" = (
 /obj/machinery/door/airlock/mining,
 /obj/machinery/door/firedoor,
@@ -5696,7 +5690,7 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "sW" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -5708,7 +5702,7 @@
 	dir = 1
 	},
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "td" = (
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/deadspace/grater,
@@ -5746,13 +5740,13 @@
 /area/mara17/interior/upper/evacuation)
 "tn" = (
 /turf/closed/wall,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "tv" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "tD" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -5760,7 +5754,7 @@
 /area/mara17/interior/upper/access3)
 "tE" = (
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "tH" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor/heavy{
@@ -5768,7 +5762,7 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/visible/layer2,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "tJ" = (
 /obj/effect/turf_decal/delivery,
 /obj/effect/spawner/random/trash/box,
@@ -5778,7 +5772,7 @@
 "tN" = (
 /obj/machinery/firealarm/directional/south,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "tO" = (
 /turf/open/floor/deadspace/hardwood,
 /area/mara17/interior/upper/mining/relax_room)
@@ -5796,25 +5790,25 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "uh" = (
 /obj/machinery/light/small/directional/south,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "ul" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "uw" = (
 /obj/structure/tank_holder/emergency_oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "ux" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/snowed,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "uy" = (
 /turf/open/floor/deadspace/hardwood,
 /area/mara17/interior/upper/observation)
@@ -5827,7 +5821,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating/snowed,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "uI" = (
 /turf/open/floor/deadspace/grater,
 /area/mara17/interior/upper/warehouse)
@@ -5845,7 +5839,7 @@
 /area/mara17/interior/upper/access2)
 "uW" = (
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "uX" = (
 /obj/machinery/firealarm/directional/south,
 /turf/open/floor/iron/ported/lino,
@@ -5853,10 +5847,10 @@
 "vc" = (
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "vf" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "vj" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -5868,7 +5862,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "vp" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -5881,7 +5875,7 @@
 	},
 /obj/machinery/firealarm/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "vw" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -5898,13 +5892,13 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "vD" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/cable{
 	dir = 4
 	},
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "vK" = (
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -5922,7 +5916,7 @@
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "vX" = (
 /obj/machinery/camera/autoname/directional/south,
 /turf/open/floor/deadspace/mono,
@@ -5942,20 +5936,20 @@
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/north,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "wF" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "wH" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "wR" = (
 /obj/structure/tank_dispenser/oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "wU" = (
 /obj/structure/table/reinforced,
 /obj/effect/spawner/random/medical/minor_healing,
@@ -5968,7 +5962,7 @@
 "wX" = (
 /obj/machinery/firealarm/directional/south,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "wY" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -5978,7 +5972,7 @@
 "xb" = (
 /obj/structure/tank_dispenser/oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "xd" = (
 /obj/structure/cable,
 /obj/machinery/light/small/directional/north,
@@ -5987,16 +5981,16 @@
 "xq" = (
 /obj/machinery/firealarm/directional/west,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "xr" = (
 /obj/structure/curtain/bounty,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "xx" = (
 /obj/item/wrench,
 /turf/open/misc/snow,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "xB" = (
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/grater,
@@ -6019,7 +6013,7 @@
 "xF" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "xN" = (
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/deadspace/grater,
@@ -6038,7 +6032,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "yc" = (
 /obj/structure/rack/shelf,
 /obj/item/clothing/suit/hooded/wintercoat/engineering,
@@ -6047,11 +6041,11 @@
 /obj/item/clothing/gloves/fingerless,
 /obj/machinery/light/directional/west,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "yd" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "ye" = (
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/east,
@@ -6064,11 +6058,11 @@
 /turf/open/floor/deadspace/cable{
 	dir = 4
 	},
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "yh" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "yl" = (
 /obj/machinery/firealarm/directional/south,
 /turf/open/floor/deadspace/hardwood,
@@ -6078,12 +6072,12 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "yn" = (
 /obj/machinery/power/apc/auto_name/directional/south,
 /obj/structure/cable,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "yo" = (
 /obj/structure/lattice,
 /obj/machinery/light/warm/directional/west,
@@ -6094,10 +6088,10 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "yy" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "yE" = (
 /obj/structure/cable,
 /obj/machinery/door/airlock/external{
@@ -6117,7 +6111,7 @@
 /area/mara17/interior/upper/evacuation)
 "yI" = (
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "yP" = (
 /obj/structure/tank_dispenser/oxygen,
 /turf/open/floor/deadspace/grater,
@@ -6138,7 +6132,7 @@
 /area/mara17/interior/upper/abandoned/romero_checkpoint)
 "zk" = (
 /turf/open/floor/carpet/orange,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "zm" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/cable_end{
@@ -6165,7 +6159,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "zx" = (
 /turf/open/openspace,
 /area/mara17/interior/upper/access3)
@@ -6179,7 +6173,7 @@
 "zC" = (
 /obj/machinery/power/port_gen/pacman/super,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "zI" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper_multi{
@@ -6197,21 +6191,21 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "zO" = (
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "zS" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 8
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "zT" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "zX" = (
 /obj/machinery/firealarm/directional/west,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -6224,7 +6218,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "Ah" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/railing,
@@ -6248,14 +6242,14 @@
 /obj/item/bedsheet/yellow,
 /obj/structure/bed,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "AB" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
 /area/mara17/interior/upper/access1)
 "AE" = (
 /turf/closed/wall/rust,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "AG" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 8
@@ -6275,7 +6269,7 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "AQ" = (
 /obj/effect/mapping_helpers/airlock/cyclelink_helper_multi{
 	cycle_id = "access3"
@@ -6310,11 +6304,11 @@
 	},
 /obj/structure/marker_beacon/burgundy,
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "Bf" = (
 /obj/machinery/camera/autoname/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Bg" = (
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/deadspace/grater,
@@ -6323,12 +6317,12 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "Br" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "Bt" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 4
@@ -6339,7 +6333,7 @@
 /obj/effect/turf_decal/stripes/line,
 /obj/machinery/light/directional/west,
 /turf/open/floor/iron/dark/telecomms,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "Bx" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
@@ -6379,12 +6373,12 @@
 /area/mara17/interior/upper/mining)
 "BO" = (
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "BT" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "BU" = (
 /obj/machinery/status_display/evac/directional/south,
 /obj/machinery/firealarm/directional/east,
@@ -6418,30 +6412,30 @@
 	},
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Co" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/medical/cmo)
+/area/station/command/heads_quarters/cmo)
 "Cq" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "Cu" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Cv" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 8
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "CA" = (
 /obj/structure/curtain/bounty,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "CD" = (
 /obj/docking_port/stationary{
 	dwidth = 3;
@@ -6451,14 +6445,14 @@
 	width = 8
 	},
 /turf/open/floor/plating,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "CF" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 8
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "CG" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -6469,7 +6463,7 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "CK" = (
 /obj/machinery/door/airlock/atmos/glass{
 	name = "Atmospherics Setup"
@@ -6480,12 +6474,12 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "CW" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "Dc" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/closet/crate,
@@ -6503,10 +6497,10 @@
 	pixel_y = 6
 	},
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "Dk" = (
 /turf/closed/wall/rust,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Do" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -6516,7 +6510,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "Dp" = (
 /obj/structure/chair/office,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -6524,7 +6518,7 @@
 "Dq" = (
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Dy" = (
 /turf/open/floor/deadspace/cable_end,
 /area/mara17/interior/upper/mining)
@@ -6533,7 +6527,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/firealarm/directional/west,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "DE" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 4
@@ -6563,13 +6557,13 @@
 "DV" = (
 /obj/structure/tank_holder/emergency_oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "DW" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 8
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "Ea" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 8
@@ -6578,12 +6572,12 @@
 /area/mara17/interior/upper/evacuation)
 "Eb" = (
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "Ed" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Ef" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
@@ -6596,7 +6590,7 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Eu" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 4
@@ -6621,13 +6615,13 @@
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "EH" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 4
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "EJ" = (
 /obj/machinery/firealarm/directional/west,
 /turf/open/floor/deadspace/grater,
@@ -6640,22 +6634,22 @@
 "EU" = (
 /obj/structure/tank_dispenser/oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "Fc" = (
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "Fm" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "Fo" = (
 /obj/effect/turf_decal/loading_area{
 	dir = 4
 	},
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "Ft" = (
 /obj/machinery/door/airlock/external,
 /obj/structure/cable,
@@ -6666,7 +6660,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Fx" = (
 /obj/machinery/door/airlock,
 /obj/machinery/door/firedoor,
@@ -6674,7 +6668,7 @@
 /area/mara17/interior/upper/abandoned/romero_storage)
 "Fy" = (
 /turf/closed/wall/r_wall,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "FA" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 4
@@ -6687,7 +6681,7 @@
 "FC" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "FH" = (
 /obj/effect/turf_decal/delivery,
 /obj/effect/spawner/random/maintenance/four,
@@ -6700,7 +6694,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "FL" = (
 /obj/structure/cable,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper_multi{
@@ -6733,7 +6727,7 @@
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "FZ" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 1
@@ -6745,14 +6739,14 @@
 "Ga" = (
 /obj/structure/tank_holder/emergency_oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Gj" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/firealarm/directional/north,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "Gm" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/access3)
@@ -6761,7 +6755,7 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Gy" = (
 /obj/machinery/power/apc/auto_name/directional/west,
 /obj/structure/cable,
@@ -6777,7 +6771,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "GE" = (
 /turf/open/floor/deadspace/medical,
 /area/mara17/interior/upper/observation/bathroom)
@@ -6808,19 +6802,19 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "Hb" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Hh" = (
 /obj/machinery/light/small/directional/north,
 /turf/open/openspace,
 /area/mara17/interior/upper/access1)
 "Hj" = (
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "Ho" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -6828,11 +6822,11 @@
 "Hs" = (
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "Hu" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Hz" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -6847,7 +6841,7 @@
 "HB" = (
 /obj/machinery/light/small/directional/north,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "HE" = (
 /turf/open/floor/deadspace/medical,
 /area/mara17/interior/upper/mining/bathrooms)
@@ -6862,14 +6856,11 @@
 	},
 /obj/machinery/door/firedoor/heavy,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "HW" = (
 /obj/machinery/firealarm/directional/north,
 /turf/open/floor/deadspace/heavy,
 /area/mara17/interior/upper/abandoned/romero_interior)
-"HZ" = (
-/turf/open/misc/snow,
-/area/mara17/interior/upper/access1)
 "Ic" = (
 /obj/effect/spawner/random/trash/grime,
 /obj/structure/tank_dispenser/oxygen,
@@ -6889,12 +6880,14 @@
 "Ih" = (
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "Ii" = (
 /obj/machinery/light/warm/directional/north,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/visible,
+/obj/machinery/atmospherics/pipe/layer_manifold/supply/visible{
+	dir = 4
+	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "Im" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /turf/open/floor/deadspace/hardwood,
@@ -6911,7 +6904,7 @@
 /obj/effect/landmark/start/cargo_technician,
 /obj/machinery/firealarm/directional/north,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "II" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 4
@@ -6921,11 +6914,11 @@
 "IM" = (
 /obj/structure/tank_dispenser/oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "IT" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "IV" = (
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/deadspace/grater,
@@ -6939,11 +6932,11 @@
 "Jd" = (
 /obj/machinery/firealarm/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Jg" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "Ji" = (
 /obj/structure/tank_holder/emergency_oxygen,
 /turf/open/floor/deadspace/grater,
@@ -6951,7 +6944,7 @@
 "Jj" = (
 /obj/machinery/firealarm/directional/south,
 /turf/open/floor/deadspace/medical,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "Jp" = (
 /obj/machinery/firealarm/directional/east,
 /turf/open/floor/deadspace/hardwood,
@@ -6975,7 +6968,7 @@
 "JA" = (
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "JE" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/ore_box,
@@ -6985,9 +6978,11 @@
 /area/mara17/interior/upper/mining/ore_storage)
 "JH" = (
 /obj/machinery/firealarm/directional/east,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/visible/layer4,
+/obj/machinery/atmospherics/components/tank/air{
+	dir = 8
+	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "JO" = (
 /obj/effect/turf_decal/delivery,
 /obj/effect/spawner/random/trash/box,
@@ -7016,7 +7011,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "Kp" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/mining/relax_room)
@@ -7026,14 +7021,14 @@
 /area/mara17/interior/upper/observation)
 "KB" = (
 /turf/closed/wall,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "KJ" = (
 /obj/machinery/firealarm/directional/north,
 /turf/open/floor/deadspace/medical,
 /area/mara17/interior/upper/mining/bathrooms)
 "KL" = (
 /turf/closed/wall/rust,
-/area/mara17/interior/upper/medical/morgue)
+/area/station/medical/morgue)
 "KM" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
@@ -7051,16 +7046,16 @@
 "KO" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "KR" = (
 /obj/structure/sign/poster/scaf/forces{
 	pixel_x = -32
 	},
 /turf/open/floor/plating/snowed,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "KU" = (
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "KY" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
@@ -7077,28 +7072,29 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating/snowed,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "Le" = (
 /obj/effect/landmark/latejoin,
 /obj/machinery/firealarm/directional/north,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Li" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/visible/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/visible/layer4,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "Ll" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
 	},
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Lm" = (
-/obj/machinery/meter,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/visible,
+/obj/machinery/atmospherics/components/binary/pump/on{
+	dir = 8
+	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "Lx" = (
 /obj/machinery/power/apc/auto_name/directional/north,
 /obj/structure/cable,
@@ -7107,17 +7103,17 @@
 "Lz" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "LI" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "LJ" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/visible/layer2,
-/turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/obj/machinery/telecomms/processor/preset_two,
+/turf/open/floor/circuit/green/telecomms/mainframe,
+/area/station/tcommsat/server)
 "LK" = (
 /turf/open/openspace,
 /area/mara17/interior/upper/mining)
@@ -7126,7 +7122,7 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "LR" = (
 /obj/structure/lattice,
 /obj/machinery/light/warm/directional/east,
@@ -7148,14 +7144,14 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "Mj" = (
 /obj/machinery/cryopod{
 	dir = 4
 	},
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Mw" = (
 /obj/structure/railing{
 	dir = 8
@@ -7170,7 +7166,7 @@
 /obj/structure/tank_holder/emergency_oxygen,
 /obj/machinery/firealarm/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "MJ" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 8
@@ -7183,7 +7179,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "MN" = (
 /obj/machinery/power/apc/auto_name/directional/south,
 /obj/structure/cable,
@@ -7218,7 +7214,7 @@
 "MX" = (
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "MY" = (
 /turf/open/floor/deadspace/grater,
 /area/mara17/interior/upper/mining/relax_room)
@@ -7227,11 +7223,10 @@
 /turf/open/floor/deadspace/random/golf_brown,
 /area/mara17/interior/upper/mining)
 "Ng" = (
-/obj/machinery/atmospherics/components/binary/pump/on{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/visible,
+/obj/machinery/meter,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "Ni" = (
 /obj/effect/spawner/random/trash/garbage,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -7239,7 +7234,7 @@
 /area/mara17/interior/upper/evacuation)
 "Nj" = (
 /turf/open/floor/plating,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Nu" = (
 /turf/open/floor/deadspace/grater,
 /area/mara17/interior/upper/mining/tool_storage)
@@ -7262,7 +7257,7 @@
 /area/mara17/interior/upper/evacuation)
 "ND" = (
 /turf/closed/wall/rust,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "NF" = (
 /obj/machinery/door/airlock/external{
 	name = "Telecommunications airlock";
@@ -7275,7 +7270,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "NR" = (
 /turf/open/floor/plating,
 /area/mara17/interior/upper/mining)
@@ -7284,7 +7279,7 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "NX" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper_multi{
@@ -7300,15 +7295,15 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Ol" = (
 /obj/effect/turf_decal/delivery,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "On" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "Op" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 4
@@ -7323,14 +7318,14 @@
 	},
 /obj/machinery/door/firedoor/heavy,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "Ox" = (
 /obj/machinery/cryopod{
 	dir = 8
 	},
 /obj/machinery/light/warm/directional/east,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "OA" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -7338,21 +7333,19 @@
 /turf/open/floor/deadspace/grater,
 /area/mara17/interior/upper/observation)
 "OC" = (
-/obj/machinery/atmospherics/pipe/layer_manifold/supply/visible{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/visible,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "OJ" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "OK" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "OL" = (
 /obj/machinery/camera/autoname/directional/east,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
@@ -7365,7 +7358,7 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "OQ" = (
 /obj/structure/rack/shelf,
 /obj/item/tank/internals/emergency_oxygen/double,
@@ -7399,7 +7392,7 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Pg" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
 /turf/open/floor/deadspace/grater,
@@ -7426,17 +7419,17 @@
 /obj/structure/cable,
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms/comms)
+/area/station/tcommsat/server)
 "Pz" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "PE" = (
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "PH" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
@@ -7448,20 +7441,20 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "PO" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "PS" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 4
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "PZ" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -7510,7 +7503,7 @@
 	dir = 4
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "QH" = (
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/plating,
@@ -7522,7 +7515,7 @@
 	},
 /obj/structure/marker_beacon/burgundy,
 /turf/open/floor/deadspace/mono,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "QS" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
@@ -7530,7 +7523,7 @@
 "QV" = (
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/quartermaster)
+/area/station/cargo/qm)
 "Ra" = (
 /obj/effect/spawner/random/trash/graffiti,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -7545,7 +7538,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/snowed,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "Rp" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 8
@@ -7583,7 +7576,7 @@
 /area/mara17/interior/upper/mining/tool_storage)
 "RG" = (
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "RS" = (
 /obj/effect/turf_decal/delivery,
 /obj/structure/railing{
@@ -7599,7 +7592,7 @@
 "RZ" = (
 /obj/structure/tank_dispenser/oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Sa" = (
 /turf/open/openspace,
 /area/mara17/interior/upper/access1)
@@ -7613,7 +7606,7 @@
 /obj/machinery/light/warm/directional/south,
 /obj/item/radio/intercom/directional/south,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "Si" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/railing{
@@ -7626,32 +7619,32 @@
 /area/mara17/interior/upper/mining)
 "Sy" = (
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "SG" = (
 /turf/open/floor/deadspace/random/golf_brown,
 /area/mara17/interior/upper/abandoned/romero_storage)
 "SO" = (
 /obj/machinery/firealarm/directional/south,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "SV" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/grater,
 /area/mara17/interior/upper/evacuation)
 "Ta" = (
 /turf/closed/wall,
-/area/mara17/interior/medium/abandoned/watchtower2)
+/area/station/mara_abandoned/outside/watchtower2)
 "Tb" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/grater,
 /area/mara17/interior/upper/mining/tool_storage)
 "Th" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
-	dir = 4
-	},
-/turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/turf/open/floor/deadspace/random/golf_brown,
+/area/station/tcommsat/computer)
 "Ti" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -7678,7 +7671,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "Ty" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -7689,7 +7682,7 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/enginieering/ce)
+/area/station/command/heads_quarters/ce)
 "TE" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper_multi{
@@ -7737,7 +7730,7 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "TQ" = (
 /obj/machinery/door/airlock/external,
 /obj/structure/cable,
@@ -7746,7 +7739,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "TT" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
@@ -7755,14 +7748,14 @@
 /area/mara17/interior/upper/mining/locker_room)
 "TV" = (
 /turf/closed/mineral/snowmountain,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "Ua" = (
 /obj/structure/tank_holder/emergency_oxygen,
 /turf/open/floor/deadspace/random/golf_brown,
 /area/mara17/interior/upper/abandoned/romero_interior)
 "Ub" = (
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "Uc" = (
 /turf/open/floor/deadspace/mono,
 /area/mara17/interior/upper/access2)
@@ -7778,13 +7771,13 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "Us" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Ut" = (
 /obj/machinery/door/airlock/external{
 	name = "Telecommunications airlock";
@@ -7796,7 +7789,7 @@
 /obj/structure/cable,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "Uu" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/evacuation)
@@ -7822,11 +7815,11 @@
 /obj/effect/turf_decal/delivery,
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "UM" = (
 /obj/machinery/camera/autoname/directional/south,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "UN" = (
 /obj/machinery/space_heater,
 /obj/machinery/light/warm/directional/east,
@@ -7839,7 +7832,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/cargo/cargo_tech)
+/area/station/cargo/office)
 "UW" = (
 /obj/machinery/space_heater,
 /obj/machinery/power/apc/auto_name/directional/east,
@@ -7851,7 +7844,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "UZ" = (
 /obj/structure/tank_dispenser/oxygen,
 /turf/open/floor/deadspace/grater,
@@ -7861,15 +7854,15 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Vn" = (
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Vo" = (
 /obj/machinery/rnd/production/circuit_imprinter,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "Vp" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/random/golf_brown,
@@ -7877,19 +7870,20 @@
 "Vs" = (
 /obj/machinery/light/warm/directional/south,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/visible/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/visible/layer4,
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "Vt" = (
 /obj/machinery/power/apc/auto_name/directional/east,
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "Vz" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "VF" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/access1)
@@ -7898,10 +7892,10 @@
 	dir = 1
 	},
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering/interior)
+/area/station/engineering/lobby)
 "VN" = (
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "VS" = (
 /obj/machinery/door/airlock/external,
 /obj/structure/cable,
@@ -7915,7 +7909,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "Wb" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 4
@@ -7958,13 +7952,13 @@
 "WB" = (
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "WE" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "WF" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -7992,7 +7986,7 @@
 	dir = 4
 	},
 /turf/open/misc/snow,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "WP" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/grater,
@@ -8008,7 +8002,7 @@
 	dir = 8
 	},
 /turf/open/floor/deadspace/hardwood,
-/area/mara17/interior/upper/enginieering/atmos)
+/area/station/engineering/atmos)
 "WY" = (
 /obj/machinery/door/airlock,
 /obj/machinery/door/firedoor,
@@ -8046,11 +8040,11 @@
 /area/mara17/interior/upper/observation/storage)
 "XE" = (
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "XK" = (
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "XP" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor,
@@ -8059,7 +8053,7 @@
 "XQ" = (
 /obj/effect/turf_decal/delivery,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "XR" = (
 /obj/structure/cable,
 /obj/machinery/door/airlock,
@@ -8071,19 +8065,19 @@
 "XS" = (
 /obj/structure/tank_holder/emergency_oxygen,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "XY" = (
 /obj/structure/cable,
 /obj/machinery/light/directional/west,
 /turf/open/floor/deadspace/random/golf_brown,
-/area/mara17/interior/upper/tcomms)
+/area/station/tcommsat/computer)
 "Ye" = (
 /obj/effect/turf_decal/bot,
 /obj/structure/table/glass,
 /obj/item/storage/medkit,
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "Yf" = (
 /obj/effect/spawner/random/trash/mess,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -8093,7 +8087,7 @@
 "Yg" = (
 /obj/item/stack/sheet/mineral/plasma/five,
 /turf/open/misc/snow,
-/area/mara17/interior/caves)
+/area/station/mara_caves)
 "Yp" = (
 /turf/open/floor/deadspace/random/golf_brown,
 /area/mara17/interior/upper/mining/ore_storage)
@@ -8113,16 +8107,16 @@
 /obj/machinery/stasis,
 /obj/structure/cable,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "YF" = (
 /turf/closed/wall,
 /area/mara17/interior/upper/warehouse)
 "YM" = (
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "YP" = (
 /turf/closed/wall/rust,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "YQ" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/door/firedoor,
@@ -8152,10 +8146,10 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/door/firedoor,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 "Zg" = (
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/civilian)
+/area/station/commons/dorms/cryo)
 "Zl" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper_multi{
@@ -8168,7 +8162,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron/dark,
-/area/mara17/interior/upper/cargo)
+/area/station/cargo/storage)
 "Zr" = (
 /obj/effect/turf_decal/delivery,
 /obj/effect/spawner/random/structure/barricade{
@@ -8189,7 +8183,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/deadspace/mono,
-/area/mara17/interior/upper/medical)
+/area/station/medical/medbay/lobby)
 "Zw" = (
 /obj/structure/railing{
 	dir = 4
@@ -8236,7 +8230,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/deadspace/roller,
-/area/mara17/exterior)
+/area/station/mara_exterior)
 "ZR" = (
 /turf/open/floor/deadspace/mono,
 /area/mara17/interior/upper/abandoned/romero_aux)
@@ -8246,7 +8240,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/deadspace/grater,
-/area/mara17/interior/upper/enginieering)
+/area/station/engineering/main)
 
 (1,1,1) = {"
 aa
@@ -13829,9 +13823,9 @@ dF
 dF
 dF
 vf
-WW
-WW
-LJ
+gz
+gz
+Li
 qU
 lX
 xF
@@ -13972,8 +13966,8 @@ dF
 dF
 vf
 Ii
-Ub
-LJ
+hi
+Li
 qU
 qU
 qU
@@ -14115,7 +14109,7 @@ dF
 vf
 Lm
 Ub
-LJ
+Li
 qU
 ig
 ij
@@ -14257,7 +14251,7 @@ dF
 vf
 Ng
 On
-LJ
+Li
 qU
 ih
 XE
@@ -14398,7 +14392,7 @@ dF
 dF
 vf
 OC
-Th
+Ub
 Vs
 qU
 ii
@@ -14427,7 +14421,7 @@ dF
 dF
 dF
 dF
-xS
+pp
 cO
 Nu
 Nu
@@ -14539,7 +14533,7 @@ dF
 dF
 dF
 vf
-gz
+WW
 JH
 Li
 qU
@@ -14968,7 +14962,7 @@ dF
 KB
 At
 Sy
-eu
+Sy
 Sy
 cY
 uW
@@ -15858,7 +15852,7 @@ uw
 Eb
 vl
 NF
-OK
+Th
 OK
 Bk
 Bk
@@ -17002,11 +16996,11 @@ aM
 aM
 Fy
 gR
-gU
+gS
 gX
 ha
 jN
-hh
+hb
 hn
 Fy
 aM
@@ -17285,12 +17279,12 @@ aM
 aM
 aM
 Fy
-gS
+gU
 gV
-gY
-hb
+gX
+LJ
 jN
-hi
+gY
 ho
 Fy
 aM
@@ -21931,7 +21925,7 @@ rV
 AB
 Ty
 VF
-HZ
+dF
 dF
 dF
 fs
@@ -22073,7 +22067,7 @@ rV
 tU
 dz
 VF
-HZ
+dF
 bO
 dF
 dF
@@ -22215,7 +22209,7 @@ WH
 AB
 Rp
 VF
-HZ
+dF
 dF
 dF
 dF
