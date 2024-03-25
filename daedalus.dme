@@ -4162,6 +4162,8 @@
 #include "code\modules\research\xenobiology\crossbreeding\reproductive.dm"
 #include "code\modules\research\xenobiology\crossbreeding\selfsustaining.dm"
 #include "code\modules\research\xenobiology\crossbreeding\stabilized.dm"
+#include "code\modules\sanity\event.dm"
+#include "code\modules\sanity\sanity.dm"
 #include "code\modules\screen_alerts\_screen_alerts.dm"
 #include "code\modules\screen_alerts\atom_hud_text.dm"
 #include "code\modules\screen_alerts\location_blurb.dm"
